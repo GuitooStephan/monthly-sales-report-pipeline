@@ -1,6 +1,6 @@
 # Monthly evaluation of pharmaceutical products performance pipeline
 
-This ultimate goal of this project is to develop an ETL pipeline using Airflow that aims at producing monthly performance indicators for various pharmaceutical products.
+The ultimate goal of this project is to develop an ETL pipeline using Airflow that aims at producing monthly performance indicators for various pharmaceutical products.
 
 ## Data
 

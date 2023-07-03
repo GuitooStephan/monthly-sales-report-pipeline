@@ -1,0 +1,25 @@
+{
+    "orders": {
+        "file_name": "wiley-ruiz.com_DÉTAIL COMMANDES.csv",
+        "columns": {
+            "ORDER-ID": "transaction_id",
+            "QUANTITY": "quantity",
+            "CODE-EAN": "ean"
+        }
+    },
+    "products": {
+        "file_name": "wiley-ruiz.com_CATALOGUE.csv",
+        "columns": {
+            "PRIX": "price",
+            "NAME": "name",
+            "CODE-EAN": "ean"
+        }
+    },
+    "transactions": {
+        "file_name": "wiley-ruiz.com_COMMANDE.csv",
+        "columns": {
+            "ORDER-ID": "transaction_id",
+            "DATE-COMMANDE": "transaction_date"
+        }
+    }
+}

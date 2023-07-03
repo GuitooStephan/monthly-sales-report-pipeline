@@ -1,0 +1,16 @@
+{
+    "orders": [
+        {
+            "column": "quantity",
+            "low": 0,
+            "high": 20
+        }
+    ],
+    "products": [
+        {
+            "column": "price",
+            "low": 0.1,
+            "high": 1000
+        }
+    ]
+}

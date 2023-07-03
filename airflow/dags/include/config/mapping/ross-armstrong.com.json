@@ -1,0 +1,25 @@
+{
+    "orders": {
+        "file_name": "ross-armstrong.com_détail commandes.csv",
+        "columns": {
+            "id commande": "transaction_id",
+            "quantité": "quantity",
+            "ean": "ean"
+        }
+    },
+    "products": {
+        "file_name": "ross-armstrong.com_products.csv",
+        "columns": {
+            "prix": "price",
+            "name": "name",
+            "ean": "ean"
+        }
+    },
+    "transactions": {
+        "file_name": "ross-armstrong.com_commandes.csv",
+        "columns": {
+            "id commande": "transaction_id",
+            "date transaction": "transaction_date"
+        }
+    }
+}

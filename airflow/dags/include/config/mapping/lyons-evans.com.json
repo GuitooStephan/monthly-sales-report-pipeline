@@ -1,0 +1,25 @@
+{
+    "orders": {
+        "file_name": "lyons-evans.com_détail commandes.csv",
+        "columns": {
+            "order-id": "transaction_id",
+            "qte": "quantity",
+            "code-ean": "ean"
+        }
+    },
+    "products": {
+        "file_name": "lyons-evans.com_products.csv",
+        "columns": {
+            "prix-unitaire": "price",
+            "nom-du-produit": "name",
+            "code-ean": "ean"
+        }
+    },
+    "transactions": {
+        "file_name": "lyons-evans.com_commande.csv",
+        "columns": {
+            "order-id": "transaction_id",
+            "timestamp": "transaction_date"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+python-dotenv==0.21
+pandas==1.5.3
+numpy==1.24.3
+pytest==7.3.2
+pytest-helpers-namespace==2021.12.29

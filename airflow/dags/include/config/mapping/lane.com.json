@@ -1,0 +1,25 @@
+{
+    "orders": {
+        "file_name": "lane.com_ORDER_ITEMS.csv",
+        "columns": {
+            "id_transaction": "transaction_id",
+            "quantity": "quantity",
+            "ean": "ean"
+        }
+    },
+    "products": {
+        "file_name": "lane.com_RÉFÉRENTIEL PRODUITS.csv",
+        "columns": {
+            "prix_unit": "price",
+            "product_name": "name",
+            "ean": "ean"
+        }
+    },
+    "transactions": {
+        "file_name": "lane.com_TRANSACTION.csv",
+        "columns": {
+            "id_transaction": "transaction_id",
+            "date": "transaction_date"
+        }
+    }
+}
